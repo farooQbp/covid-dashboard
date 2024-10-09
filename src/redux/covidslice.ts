@@ -29,6 +29,13 @@ const initialState: CovidState = {
       activeCases: 100000,
       recovered: 380000,
       deaths: 20000
+    },
+    {
+      name: 'Kerala',
+      totalCases: 80000,
+      activeCases: 40000,
+      recovered: 39000,
+      deaths: 1000
     }
   ]
 };
